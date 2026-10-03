@@ -1,2 +1,6 @@
 # ProjetoIntegrado_Desenvolvimento_de_Sistemas
-Empresa da Amanda
+Empresa Beneficiada: 54.397.520 AMANDA FERREIRA LEONARDI
+CNPJ: 54.397.520/0001-09
+
+ANDREY COSTA ALMEDIA | RA: 26001763
+MATHEUS DO AMARAL ROQUE | RA: 26001771
